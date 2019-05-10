@@ -11,3 +11,50 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+
+@font-face {
+  font-family: 'GT-Haptik-Medium';
+  /* src: url('https://dl.dropbox.com/s/2sgyglmr9uwhfbt/GT-Haptik-Medium-2.woff?dl=0') format('woff'),
+      url('https://dl.dropbox.com/s/b8a86eq9905107f/GT-Haptik-Medium-2.ttf?dl=0') format('truetype'),
+      url('https://dl.dropbox.com/s/mjj8nxv4o70meze/GT-Haptik-Medium-2.eot?dl=0') format('embedded-opentype') */
+  src: url('./assets/fonts/GT-Haptik-Medium-2.woff') format('woff'),
+      url('./assets/fonts/GT-Haptik-Medium-2.ttf') format('truetype'),
+      url('./assets/fonts/GT-Haptik-Medium-2.eot') format('embedded-opentype')
+}
+
+@font-face {
+  font-family: 'GT-Haptik-Regular';
+  /* src: url('https://dl.dropbox.com/s/cd7nt0igszxxdh9/GT-Haptik-Regular-2.woff?dl=0') format('woff'),
+      url('https://dl.dropbox.com/s/zdncj1yabpdjqqi/GT-Haptik-Regular-2.ttf?dl=0') format('truetype'),
+      url('https://dl.dropbox.com/s/3uve9cvi06w441z/GT-Haptik-Regular-2.eot?dl=0') format('embedded-opentype') */
+      src: url('./assets/fonts/GT-Haptik-Regular-2.woff') format('woff'),
+          url('./assets/fonts/GT-Haptik-Regular-2.ttf') format('truetype'),
+          url('./assets/fonts/GT-Haptik-Regular-2.eot') format('embedded-opentype')
+}
+@font-face {
+  font-family: 'GT-Haptik-Bold';
+  /* src: url('https://dl.dropbox.com/s/po2suaqhn2ljor2/GT-Haptik-Bold-2.woff?dl=0') format('woff'),
+      url('https://dl.dropbox.com/s/zdncj1yabpdjqqi/GT-Haptik-Regular-2.ttf?dl=0') format('truetype'),
+      url('https://dl.dropbox.com/s/1i5olw8aupa04j3/GT-Haptik-Bold-2.eot?dl=0') format('embedded-opentype') */
+      src: url('./assets/fonts/GT-Haptik-Bold-2.woff') format('woff'),
+          url('./assets/fonts/GT-Haptik-Regular-2.ttf') format('truetype'),
+          url('./assets/fonts/GT-Haptik-Bold-2.eot') format('embedded-opentype')
+}
+
+@font-face {
+  font-family: 'GT-Haptik-Thin';
+  /* src: url('https://dl.dropbox.com/s/e132gb38sh0dz22/GT-Haptik-Thin-2.woff?dl=0') format('woff'),
+      url('https://dl.dropbox.com/s/zchuzmskxhsued3/GT-Haptik-Thin-2.eot?dl=0') format('embedded-opentype') */
+      src: url('./assets/fonts/GT-Haptik-Thin-2.woff') format('woff'),
+          url('./assets/fonts/GT-Haptik-Thin-2.eot') format('embedded-opentype')
+}
+
+@font-face {
+  font-family: 'GT-Haptik-Light';
+  /* src: url('https://dl.dropbox.com/s/83tdj2unhi6wtzo/GT-Haptik-Light-2.woff?dl=0') format('woff'),
+      url('https://dl.dropbox.com/s/roierzwiuto9evu/GT-Haptik-Light-2.eot?dl=0') format('embedded-opentype') */
+      src: url('./assets/fonts/GT-Haptik-Light-2.woff') format('woff'),
+          url('./assets/fonts/GT-Haptik-Light-2.eot') format('embedded-opentype')
+}

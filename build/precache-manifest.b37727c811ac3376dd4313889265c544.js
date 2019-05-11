@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dabff94d64e7e20730f347ee88ed4186",
+    "revision": "f018646158c75c84a2f891c4d4466ef1",
     "url": "/index.html"
   },
   {
-    "revision": "2c992a8e3d3916d736bf",
-    "url": "/static/css/main.2b1d6c2b.chunk.css"
+    "revision": "201c3d63c8856671fff5",
+    "url": "/static/css/main.73e355b4.chunk.css"
   },
   {
-    "revision": "b0d6c3b3f1c874203930",
-    "url": "/static/js/2.48ebeb33.chunk.js"
+    "revision": "b8a56b499f4862311eb6",
+    "url": "/static/js/2.529ca561.chunk.js"
   },
   {
-    "revision": "2c992a8e3d3916d736bf",
-    "url": "/static/js/main.a17a0d3e.chunk.js"
+    "revision": "201c3d63c8856671fff5",
+    "url": "/static/js/main.58814b15.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -66,5 +66,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e8f941e63968ef12fb64f8643ef23437",
     "url": "/static/media/GT-Haptik-Thin-2.e8f941e6.eot"
+  },
+  {
+    "revision": "83f3fcc042e081cbf1203743466037b2",
+    "url": "/static/media/instagram.83f3fcc0.svg"
   }
 ]);

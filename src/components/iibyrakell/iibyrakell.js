@@ -17,7 +17,7 @@ export default class Iibyrakell extends Component {
         return (
             <div className="iibyrakell-wrapper">
                     <div>
-                        UNDER CONSTRUCTION Iibyrakell...
+                       <p>Indigo Images By Rakell</p>
                     </div>
             </div>
         )    

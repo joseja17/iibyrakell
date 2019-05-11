@@ -1,6 +1,8 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Iibyrakell from './components/iibyrakell/iibyrakell';
+import Header from './components/header/header';
+import Footer from './components/footer/footer';
 // import About from './components/about/About';
 // import Contact from './components/contact/Contact';
 
@@ -24,9 +26,9 @@ const DefaultLayout = ({ component: Component, ...rest }) => {
     return (
         <Route {...rest} render={matchProps => (
             <div>
-                {/* <Header /> */}
+                <Header />
                 <Component {...matchProps} />
-                {/* <Footer {...matchProps} /> */}
+                <Footer {...matchProps} />
             </div>
         )} />
     )

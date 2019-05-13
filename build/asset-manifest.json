@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3697fb71.chunk.css",
-    "main.js": "/static/js/main.e9618d28.chunk.js",
-    "main.js.map": "/static/js/main.e9618d28.chunk.js.map",
+    "main.css": "/static/css/main.101bee5d.chunk.css",
+    "main.js": "/static/js/main.84dbf60e.chunk.js",
+    "main.js.map": "/static/js/main.84dbf60e.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.8aa7b524.chunk.js": "/static/js/2.8aa7b524.chunk.js",
     "static/js/2.8aa7b524.chunk.js.map": "/static/js/2.8aa7b524.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.133d61410a3f19b0c5e6481750707d1c.js": "/precache-manifest.133d61410a3f19b0c5e6481750707d1c.js",
+    "precache-manifest.9f9ba6310f0cc6841bb25fe12db39471.js": "/precache-manifest.9f9ba6310f0cc6841bb25fe12db39471.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3697fb71.chunk.css.map": "/static/css/main.3697fb71.chunk.css.map",
+    "static/css/main.101bee5d.chunk.css.map": "/static/css/main.101bee5d.chunk.css.map",
     "static/media/index.css": "/static/media/GT-Haptik-Thin-2.e8f941e6.eot",
-    "static/media/Iibyrakell-logo.png": "/static/media/Iibyrakell-logo.d31c79fb.png",
-    "static/media/instagram.svg": "/static/media/instagram.83f3fcc0.svg"
+    "static/media/instagram.svg": "/static/media/instagram.83f3fcc0.svg",
+    "static/media/logo-calligraphy.png": "/static/media/logo-calligraphy.1d5377a1.png"
   }
 }

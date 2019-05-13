@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './header.css';
 import { Link } from 'react-router-dom';
-import Logo from '../../assets/logos/Iibyrakell-logo.png';
+import Logo from '../../assets/logos/logo-calligraphy.png';
 
 
 export default class Header extends Component {

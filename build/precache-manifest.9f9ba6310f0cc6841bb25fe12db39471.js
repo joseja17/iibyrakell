@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3548df34a5fbd6064235eae60535c301",
+    "revision": "d3bad86331489976197f07f2a17c7d2f",
     "url": "/index.html"
   },
   {
-    "revision": "8afa295d0ee1bdff2245",
-    "url": "/static/css/main.3697fb71.chunk.css"
+    "revision": "85e4afcb6fcf387f2595",
+    "url": "/static/css/main.101bee5d.chunk.css"
   },
   {
     "revision": "417ab243303117ef7982",
     "url": "/static/js/2.8aa7b524.chunk.js"
   },
   {
-    "revision": "8afa295d0ee1bdff2245",
-    "url": "/static/js/main.e9618d28.chunk.js"
+    "revision": "85e4afcb6fcf387f2595",
+    "url": "/static/js/main.84dbf60e.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -68,11 +68,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/GT-Haptik-Thin-2.e8f941e6.eot"
   },
   {
-    "revision": "d31c79fb8309fee72f34d954771a57cb",
-    "url": "/static/media/Iibyrakell-logo.d31c79fb.png"
-  },
-  {
     "revision": "83f3fcc042e081cbf1203743466037b2",
     "url": "/static/media/instagram.83f3fcc0.svg"
+  },
+  {
+    "revision": "1d5377a1e7fde4630d35304a44032d7b",
+    "url": "/static/media/logo-calligraphy.1d5377a1.png"
   }
 ]);

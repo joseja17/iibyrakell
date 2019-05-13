@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './footer.css';
-import { Link } from 'react-router-dom';
 import Instagram from '../../assets/icons/instagram.svg'
 
 

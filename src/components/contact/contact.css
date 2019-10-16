@@ -8,5 +8,6 @@
     position: relative;
     z-index: 1;
     color: #58585b;
+    flex-direction: column;
 }
 

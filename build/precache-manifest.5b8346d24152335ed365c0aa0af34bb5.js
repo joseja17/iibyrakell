@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3bad86331489976197f07f2a17c7d2f",
+    "revision": "8a4d23d4b0a66c04d3123b650c853261",
     "url": "/index.html"
   },
   {
-    "revision": "85e4afcb6fcf387f2595",
-    "url": "/static/css/main.101bee5d.chunk.css"
+    "revision": "9b0dedcdb2d9ad8a7c09",
+    "url": "/static/css/main.4aaddf02.chunk.css"
   },
   {
-    "revision": "417ab243303117ef7982",
-    "url": "/static/js/2.8aa7b524.chunk.js"
+    "revision": "1ab5f798007bc5dfca50",
+    "url": "/static/js/2.689a96c0.chunk.js"
   },
   {
-    "revision": "85e4afcb6fcf387f2595",
-    "url": "/static/js/main.84dbf60e.chunk.js"
+    "revision": "9b0dedcdb2d9ad8a7c09",
+    "url": "/static/js/main.674929ca.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e8f941e63968ef12fb64f8643ef23437",
     "url": "/static/media/GT-Haptik-Thin-2.e8f941e6.eot"
+  },
+  {
+    "revision": "7b6cd4b301073e86b94b848ee8803ca5",
+    "url": "/static/media/Palash-Regular.7b6cd4b3.ttf"
   },
   {
     "revision": "83f3fcc042e081cbf1203743466037b2",

@@ -59,6 +59,11 @@ code {
           url('./assets/fonts/GT-Haptik-Light-2.eot') format('embedded-opentype')
 }
 
+@font-face {
+  font-family: 'Palash-Regular';
+      src: url('./assets/fonts/Palash-Regular.ttf') format('truetype')
+}
+
 a {
   text-decoration: none;
   color: inherit;

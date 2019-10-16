@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4aaddf02.chunk.css",
+    "main.css": "/static/css/main.2eead92c.chunk.css",
     "main.js": "/static/js/main.674929ca.chunk.js",
     "main.js.map": "/static/js/main.674929ca.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,10 +8,10 @@
     "static/js/2.689a96c0.chunk.js": "/static/js/2.689a96c0.chunk.js",
     "static/js/2.689a96c0.chunk.js.map": "/static/js/2.689a96c0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5b8346d24152335ed365c0aa0af34bb5.js": "/precache-manifest.5b8346d24152335ed365c0aa0af34bb5.js",
+    "precache-manifest.971def0bcee5c0802933f10bbcf833b5.js": "/precache-manifest.971def0bcee5c0802933f10bbcf833b5.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4aaddf02.chunk.css.map": "/static/css/main.4aaddf02.chunk.css.map",
-    "static/media/index.css": "/static/media/Palash-Regular.7b6cd4b3.ttf",
+    "static/css/main.2eead92c.chunk.css.map": "/static/css/main.2eead92c.chunk.css.map",
+    "static/media/index.css": "/static/media/SpecialElite-Regular.7059acee.ttf",
     "static/media/instagram.svg": "/static/media/instagram.83f3fcc0.svg",
     "static/media/logo-calligraphy.png": "/static/media/logo-calligraphy.1d5377a1.png"
   }

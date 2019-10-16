@@ -64,6 +64,11 @@ code {
       src: url('./assets/fonts/Palash-Regular.ttf') format('truetype')
 }
 
+@font-face {
+  font-family: 'Special-Elite';
+      src: url('./assets/fonts/SpecialElite-Regular.ttf') format('truetype')
+}
+
 a {
   text-decoration: none;
   color: inherit;

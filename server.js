@@ -19,8 +19,8 @@ app.post('/api/contact-me', (req, res) => {
     //If the select Customer Service, their info is sent as a email to customerservice@alder.com
 
     var data = {
-        from: 'Customer Service Request <joseja_17@hotmail.com>',
-        to: 'joseja_17@hotmail.com',
+        from: 'IIbyRakell Pidiendo Precios <joseja_17@hotmail.com>',
+        to: 'simplyrakell@gmail.com',
         subject: 'IIBYRAKELL Website',
         text: `Name: ${req.body.firstName}  ${req.body.lastName}    
                     

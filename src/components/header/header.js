@@ -31,27 +31,35 @@ export default class Header extends Component {
         return (
             <div className="header-wrapper">
                 <div className="header-content">
-                {window.innerWidth > 1000 ?
-                    <div className="left-header">
-                        <Link to="/"><p>Home</p></Link>
-                        <Link to="/about"><p>About Me</p></Link>
-                        <Link to="/portfolio"><p>Portfolio</p></Link>
-                    </div>
-                    :
-                    <div style={{display:'none'}}></div>
+                    {window.innerWidth > 1000 ?
+                        <div style={{ width: '35%' }}>
+                            <hr />
+                            <div className="left-header">
+                                <Link to="/"><p>Home</p></Link>
+                                <Link to="/about"><p>About Me</p></Link>
+                                <Link to="/portfolio"><p>Portfolio</p></Link>
+                            </div>
+                            <hr />
+                        </div>
+                        :
+                        <div style={{ display: 'none' }}></div>
                     }
 
                     <div className="center-header">
-                        <Link to="/"><img src={Logo} alt=""/></Link>
-                      
+                        <Link to="/"><img src={'https://res.cloudinary.com/dndara5vo/image/upload/q_auto,f_auto/v1583372504/Custom-Pieces_3_ykwwlz.png'} alt="" /></Link>
+
                     </div>
 
 
                     {window.innerWidth > 1000 ?
-                        <div className="right-header-desktop">
-                           <Link to="/pricing"><p>Pricing</p></Link>
-                           <Link to="/reviews"><p>Reviews</p></Link>
-                           <Link to="/contact"><p>Contact</p></Link>
+                        <div style={{ width: '35%'  }}>
+                            <hr />
+                            <div className="right-header-desktop">
+                                <Link to="/pricing"><p>Pricing</p></Link>
+                                <Link to="/reviews"><p>Reviews</p></Link>
+                                <Link to="/contact"><p>Contact</p></Link>
+                            </div>
+                            <hr />
                         </div>
                         :
 
@@ -67,30 +75,30 @@ export default class Header extends Component {
                                 onClick={() => this.hideDropDown('showMenu')}
                             >
                                 <Link to="/">
-                                <p>Home</p>
+                                    <p>Home</p>
                                 </Link>
                                 <hr className="hr-header" />
                                 <Link to="/about">
-                                <p>About Me</p>
+                                    <p>About Me</p>
                                 </Link>
                                 <hr className="hr-header" />
                                 <Link to="/portfolio">
-                                <p>Portfolio</p>
+                                    <p>Portfolio</p>
                                 </Link>
                                 <hr className="hr-header" />
                                 <Link to="/pricing">
-                                <p>Pricing</p>
+                                    <p>Pricing</p>
                                 </Link>
                                 <hr className="hr-header" />
                                 <Link to="/reviews">
-                                <p>Reviews</p>
+                                    <p>Reviews</p>
                                 </Link>
                                 <hr className="hr-header" />
                                 <Link to="/contact">
-                                <p>Contact</p>
+                                    <p>Contact</p>
                                 </Link>
                                 <hr className="hr-header" />
-                               
+
 
                             </div>
                         </div>

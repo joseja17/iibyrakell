@@ -1,7 +1,6 @@
 .iibyrakell-wrapper{
     width: 100%;
-    height: calc(100vh - 260px);
-    /* height: 100%; */
+    height: 100%;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -10,5 +9,13 @@
     z-index: 1;
     color: #58585b;
     font-family: 'Special-Elite', cursive;
+}
+
+.home-iibyrakell{
+    max-width: 1300px;
+    height: 80vh;
+    width: 100%;
+    background: url('https://res.cloudinary.com/dndara5vo/image/upload/q_auto,f_auto/v1583373006/IMG_0808-min_cqxz7g.jpg');
+    background-size: cover;
 }
 
